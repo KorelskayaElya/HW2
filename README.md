@@ -10,10 +10,14 @@
 ***
 :white_check_mark: Ниже пример кода из нашего приложения:
 ***
-css
-    <style> 
-    .selector * {
-        font-family: "Awesome", Arial, sans-serif;
-        color: red;
+
+```css
+    body{
+        <style> 
+            .selector * {
+                font-family: "Awesome", Arial, sans-serif;
+                color: red;
+            }
+        </style>
     }
-    </style>
+```
